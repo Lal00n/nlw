@@ -6,7 +6,7 @@
 
 Projeto construido na Next Level Week da Rocketseat
 
-[Clique aqui para acessar](https://Laloonn.github.io/nlw)
+[Clique aqui para acessar](https://jp-beltran.github.io/nlw/)
 
 ## Tecnologias
 - HTML
